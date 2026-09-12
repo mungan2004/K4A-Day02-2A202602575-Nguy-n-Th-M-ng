@@ -112,7 +112,7 @@ Trông trẻ em nằm nôi
 Pain thật không chỉ là tốn thời gian, mà là nỗi sợ tột độ về an toàn của trẻ dẫn đến mất ngủ triền miên.
 ```
 
-Bằng chứng đính kèm (nếu có): `02-group-problem-statement-survey.png`, `...-interview-notes.md`
+Bằng chứng đính kèm (nếu có): [evidence.md](./evidence.md) (Chi tiết trích dẫn y khoa và phỏng vấn)
 
 ### 4.2. Research giải pháp đã có (ít nhất 2-3 tools/patterns + 1-2 link kiểm được)
 
